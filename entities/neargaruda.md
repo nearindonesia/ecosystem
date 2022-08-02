@@ -1,8 +1,10 @@
 ---
-slug: "near-garuda"
-title: "NEAR Garuda"
+slug: "near-indonesia"
+title: "NEAR Indonesia"
 oneliner: "NEAR community based in Indonesia."
-telegram: "https://t.me/neargaruda"
+telegram: "https://t.me/NEARIndonesiaHQ"
+twitter: "https://twitter.com/Near_indonesia"
+instagram: "https://www.instagram.com/near.indonesia/"
 category: guild, geographical
 ---
 
